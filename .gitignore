@@ -1,0 +1,10 @@
+google-sheets/connection.json
+google-sheets/Code.gs
+__pycache__/
+tools/node_modules/
+*.xlsx
+*.zip
+*.png
+tools/existing-registrations.json
+tools/migration-report.json
+tools/previews/

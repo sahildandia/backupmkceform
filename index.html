@@ -1,0 +1,18 @@
+<!doctype html>
+<html lang="en">
+<head><meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1"><title>Club Registration Form</title><link rel="stylesheet" href="style.css"><script src="app.js" defer></script></head>
+<body><main class="form-card"><header><h1>Club Registration Form</h1><p>Please fill out the details carefully. You can only register for ONE club.</p></header>
+<form id="registration">
+<section><h2><span>1</span>Personal Information</h2><div class="fields">
+<label>Full Student Name<input name="name" placeholder="John Doe" required maxlength="100" autocomplete="name"></label>
+<label>Register Number<input name="register" placeholder="E.g. 927624BCS001" required pattern="[A-Za-z0-9]{6,25}" maxlength="25" autocomplete="off"></label>
+<label>Official college mail id<input name="email" type="email" placeholder="student@mkce.ac.in" required maxlength="120" autocomplete="email"></label>
+<label>Phone Number<input name="phone" type="tel" placeholder="9876543210" required pattern="[6-9][0-9]{9}" maxlength="10" autocomplete="tel" inputmode="numeric"></label>
+</div></section>
+<section><h2><span>2</span>Academic Information</h2><div class="fields">
+<label>Select Your Department<select name="department" id="department" required><option value="">-- Choose Department --</option></select></label>
+<label>Select Your Year<select name="year" id="year" required><option value="">-- Choose Year --</option><option value="1">1st Year</option><option value="2">2nd Year</option><option value="3">3rd Year</option></select></label>
+</div><fieldset class="japanese"><legend>Are you a Japanese student?</legend><label><input type="radio" name="japanese" value="Yes"> Yes, I am</label><label><input type="radio" name="japanese" value="No" checked> No, I am not</label></fieldset></section>
+<section id="club-section" hidden><h2><span>3</span>Select Your Club</h2><p class="notice">You can select exactly ONE club. Availability is based on the seats allocated to your department and year.</p><div id="clubs" class="clubs"></div></section>
+<p id="message" role="status" aria-live="polite"></p><button id="submit" type="submit" disabled>Complete Registration</button>
+</form><footer id="connection">Connecting to seat allocations…</footer></main></body></html>

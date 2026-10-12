@@ -1,0 +1,2802 @@
+[
+  {
+    "club": "Google Club",
+    "sheet": "Google Club",
+    "department": "Artificial Intelligence and Data Science",
+    "year": 1,
+    "seats": 4
+  },
+  {
+    "club": "Google Club",
+    "sheet": "Google Club",
+    "department": "Artificial Intelligence and Data Science",
+    "year": 2,
+    "seats": 4
+  },
+  {
+    "club": "Google Club",
+    "sheet": "Google Club",
+    "department": "Artificial Intelligence and Data Science",
+    "year": 3,
+    "seats": 3
+  },
+  {
+    "club": "Google Club",
+    "sheet": "Google Club",
+    "department": "Artificial Intelligence and Data Science",
+    "year": 4,
+    "seats": 2
+  },
+  {
+    "club": "Google Club",
+    "sheet": "Google Club",
+    "department": "Artificial Intelligence and Machine Learning",
+    "year": 1,
+    "seats": 3
+  },
+  {
+    "club": "Google Club",
+    "sheet": "Google Club",
+    "department": "Artificial Intelligence and Machine Learning",
+    "year": 2,
+    "seats": 3
+  },
+  {
+    "club": "Google Club",
+    "sheet": "Google Club",
+    "department": "Artificial Intelligence and Machine Learning",
+    "year": 3,
+    "seats": 3
+  },
+  {
+    "club": "Google Club",
+    "sheet": "Google Club",
+    "department": "Artificial Intelligence and Machine Learning",
+    "year": 4,
+    "seats": 2
+  },
+  {
+    "club": "Google Club",
+    "sheet": "Google Club",
+    "department": "Civil Engineering",
+    "year": 1,
+    "seats": 1
+  },
+  {
+    "club": "Google Club",
+    "sheet": "Google Club",
+    "department": "Civil Engineering",
+    "year": 2,
+    "seats": 1
+  },
+  {
+    "club": "Google Club",
+    "sheet": "Google Club",
+    "department": "Civil Engineering",
+    "year": 3,
+    "seats": 1
+  },
+  {
+    "club": "Google Club",
+    "sheet": "Google Club",
+    "department": "Civil Engineering",
+    "year": 4,
+    "seats": 1
+  },
+  {
+    "club": "Google Club",
+    "sheet": "Google Club",
+    "department": "Computer Science and Business Systems",
+    "year": 1,
+    "seats": 3
+  },
+  {
+    "club": "Google Club",
+    "sheet": "Google Club",
+    "department": "Computer Science and Business Systems",
+    "year": 2,
+    "seats": 3
+  },
+  {
+    "club": "Google Club",
+    "sheet": "Google Club",
+    "department": "Computer Science and Business Systems",
+    "year": 3,
+    "seats": 2
+  },
+  {
+    "club": "Google Club",
+    "sheet": "Google Club",
+    "department": "Computer Science and Business Systems",
+    "year": 4,
+    "seats": 2
+  },
+  {
+    "club": "Google Club",
+    "sheet": "Google Club",
+    "department": "Computer Science and Engineering",
+    "year": 1,
+    "seats": 13
+  },
+  {
+    "club": "Google Club",
+    "sheet": "Google Club",
+    "department": "Computer Science and Engineering",
+    "year": 2,
+    "seats": 13
+  },
+  {
+    "club": "Google Club",
+    "sheet": "Google Club",
+    "department": "Computer Science and Engineering",
+    "year": 3,
+    "seats": 10
+  },
+  {
+    "club": "Google Club",
+    "sheet": "Google Club",
+    "department": "Computer Science and Engineering",
+    "year": 4,
+    "seats": 6
+  },
+  {
+    "club": "Google Club",
+    "sheet": "Google Club",
+    "department": "Electrical and Electronics Engineering",
+    "year": 1,
+    "seats": 2
+  },
+  {
+    "club": "Google Club",
+    "sheet": "Google Club",
+    "department": "Electrical and Electronics Engineering",
+    "year": 2,
+    "seats": 2
+  },
+  {
+    "club": "Google Club",
+    "sheet": "Google Club",
+    "department": "Electrical and Electronics Engineering",
+    "year": 3,
+    "seats": 2
+  },
+  {
+    "club": "Google Club",
+    "sheet": "Google Club",
+    "department": "Electrical and Electronics Engineering",
+    "year": 4,
+    "seats": 1
+  },
+  {
+    "club": "Google Club",
+    "sheet": "Google Club",
+    "department": "Electronics and Communication Engineering",
+    "year": 1,
+    "seats": 9
+  },
+  {
+    "club": "Google Club",
+    "sheet": "Google Club",
+    "department": "Electronics and Communication Engineering",
+    "year": 2,
+    "seats": 9
+  },
+  {
+    "club": "Google Club",
+    "sheet": "Google Club",
+    "department": "Electronics and Communication Engineering",
+    "year": 3,
+    "seats": 8
+  },
+  {
+    "club": "Google Club",
+    "sheet": "Google Club",
+    "department": "Electronics and Communication Engineering",
+    "year": 4,
+    "seats": 4
+  },
+  {
+    "club": "Google Club",
+    "sheet": "Google Club",
+    "department": "Electronics Engineering (VLSI)",
+    "year": 1,
+    "seats": 2
+  },
+  {
+    "club": "Google Club",
+    "sheet": "Google Club",
+    "department": "Electronics Engineering (VLSI)",
+    "year": 2,
+    "seats": 2
+  },
+  {
+    "club": "Google Club",
+    "sheet": "Google Club",
+    "department": "Electronics Engineering (VLSI)",
+    "year": 3,
+    "seats": 1
+  },
+  {
+    "club": "Google Club",
+    "sheet": "Google Club",
+    "department": "Electronics Engineering (VLSI)",
+    "year": 4,
+    "seats": 1
+  },
+  {
+    "club": "Google Club",
+    "sheet": "Google Club",
+    "department": "Information Technology",
+    "year": 1,
+    "seats": 7
+  },
+  {
+    "club": "Google Club",
+    "sheet": "Google Club",
+    "department": "Information Technology",
+    "year": 2,
+    "seats": 7
+  },
+  {
+    "club": "Google Club",
+    "sheet": "Google Club",
+    "department": "Information Technology",
+    "year": 3,
+    "seats": 6
+  },
+  {
+    "club": "Google Club",
+    "sheet": "Google Club",
+    "department": "Information Technology",
+    "year": 4,
+    "seats": 3
+  },
+  {
+    "club": "Google Club",
+    "sheet": "Google Club",
+    "department": "Mechanical Engineering",
+    "year": 1,
+    "seats": 1
+  },
+  {
+    "club": "Google Club",
+    "sheet": "Google Club",
+    "department": "Mechanical Engineering",
+    "year": 2,
+    "seats": 1
+  },
+  {
+    "club": "Google Club",
+    "sheet": "Google Club",
+    "department": "Mechanical Engineering",
+    "year": 3,
+    "seats": 1
+  },
+  {
+    "club": "Google Club",
+    "sheet": "Google Club",
+    "department": "Mechanical Engineering",
+    "year": 4,
+    "seats": 1
+  },
+  {
+    "club": "Mobile App Club",
+    "sheet": "Mobile App Club",
+    "department": "Artificial Intelligence and Data Science",
+    "year": 1,
+    "seats": 5
+  },
+  {
+    "club": "Mobile App Club",
+    "sheet": "Mobile App Club",
+    "department": "Artificial Intelligence and Data Science",
+    "year": 2,
+    "seats": 5
+  },
+  {
+    "club": "Mobile App Club",
+    "sheet": "Mobile App Club",
+    "department": "Artificial Intelligence and Data Science",
+    "year": 3,
+    "seats": 4
+  },
+  {
+    "club": "Mobile App Club",
+    "sheet": "Mobile App Club",
+    "department": "Artificial Intelligence and Data Science",
+    "year": 4,
+    "seats": 3
+  },
+  {
+    "club": "Mobile App Club",
+    "sheet": "Mobile App Club",
+    "department": "Artificial Intelligence and Machine Learning",
+    "year": 1,
+    "seats": 3
+  },
+  {
+    "club": "Mobile App Club",
+    "sheet": "Mobile App Club",
+    "department": "Artificial Intelligence and Machine Learning",
+    "year": 2,
+    "seats": 3
+  },
+  {
+    "club": "Mobile App Club",
+    "sheet": "Mobile App Club",
+    "department": "Artificial Intelligence and Machine Learning",
+    "year": 3,
+    "seats": 3
+  },
+  {
+    "club": "Mobile App Club",
+    "sheet": "Mobile App Club",
+    "department": "Artificial Intelligence and Machine Learning",
+    "year": 4,
+    "seats": 2
+  },
+  {
+    "club": "Mobile App Club",
+    "sheet": "Mobile App Club",
+    "department": "Civil Engineering",
+    "year": 1,
+    "seats": 1
+  },
+  {
+    "club": "Mobile App Club",
+    "sheet": "Mobile App Club",
+    "department": "Civil Engineering",
+    "year": 2,
+    "seats": 1
+  },
+  {
+    "club": "Mobile App Club",
+    "sheet": "Mobile App Club",
+    "department": "Civil Engineering",
+    "year": 3,
+    "seats": 1
+  },
+  {
+    "club": "Mobile App Club",
+    "sheet": "Mobile App Club",
+    "department": "Civil Engineering",
+    "year": 4,
+    "seats": 1
+  },
+  {
+    "club": "Mobile App Club",
+    "sheet": "Mobile App Club",
+    "department": "Computer Science and Business Systems",
+    "year": 1,
+    "seats": 3
+  },
+  {
+    "club": "Mobile App Club",
+    "sheet": "Mobile App Club",
+    "department": "Computer Science and Business Systems",
+    "year": 2,
+    "seats": 3
+  },
+  {
+    "club": "Mobile App Club",
+    "sheet": "Mobile App Club",
+    "department": "Computer Science and Business Systems",
+    "year": 3,
+    "seats": 3
+  },
+  {
+    "club": "Mobile App Club",
+    "sheet": "Mobile App Club",
+    "department": "Computer Science and Business Systems",
+    "year": 4,
+    "seats": 2
+  },
+  {
+    "club": "Mobile App Club",
+    "sheet": "Mobile App Club",
+    "department": "Computer Science and Engineering",
+    "year": 1,
+    "seats": 14
+  },
+  {
+    "club": "Mobile App Club",
+    "sheet": "Mobile App Club",
+    "department": "Computer Science and Engineering",
+    "year": 2,
+    "seats": 14
+  },
+  {
+    "club": "Mobile App Club",
+    "sheet": "Mobile App Club",
+    "department": "Computer Science and Engineering",
+    "year": 3,
+    "seats": 11
+  },
+  {
+    "club": "Mobile App Club",
+    "sheet": "Mobile App Club",
+    "department": "Computer Science and Engineering",
+    "year": 4,
+    "seats": 6
+  },
+  {
+    "club": "Mobile App Club",
+    "sheet": "Mobile App Club",
+    "department": "Electrical and Electronics Engineering",
+    "year": 1,
+    "seats": 2
+  },
+  {
+    "club": "Mobile App Club",
+    "sheet": "Mobile App Club",
+    "department": "Electrical and Electronics Engineering",
+    "year": 2,
+    "seats": 2
+  },
+  {
+    "club": "Mobile App Club",
+    "sheet": "Mobile App Club",
+    "department": "Electrical and Electronics Engineering",
+    "year": 3,
+    "seats": 2
+  },
+  {
+    "club": "Mobile App Club",
+    "sheet": "Mobile App Club",
+    "department": "Electrical and Electronics Engineering",
+    "year": 4,
+    "seats": 2
+  },
+  {
+    "club": "Mobile App Club",
+    "sheet": "Mobile App Club",
+    "department": "Electronics and Communication Engineering",
+    "year": 1,
+    "seats": 6
+  },
+  {
+    "club": "Mobile App Club",
+    "sheet": "Mobile App Club",
+    "department": "Electronics and Communication Engineering",
+    "year": 2,
+    "seats": 6
+  },
+  {
+    "club": "Mobile App Club",
+    "sheet": "Mobile App Club",
+    "department": "Electronics and Communication Engineering",
+    "year": 3,
+    "seats": 5
+  },
+  {
+    "club": "Mobile App Club",
+    "sheet": "Mobile App Club",
+    "department": "Electronics and Communication Engineering",
+    "year": 4,
+    "seats": 3
+  },
+  {
+    "club": "Mobile App Club",
+    "sheet": "Mobile App Club",
+    "department": "Electronics Engineering (VLSI)",
+    "year": 1,
+    "seats": 1
+  },
+  {
+    "club": "Mobile App Club",
+    "sheet": "Mobile App Club",
+    "department": "Electronics Engineering (VLSI)",
+    "year": 2,
+    "seats": 1
+  },
+  {
+    "club": "Mobile App Club",
+    "sheet": "Mobile App Club",
+    "department": "Electronics Engineering (VLSI)",
+    "year": 3,
+    "seats": 1
+  },
+  {
+    "club": "Mobile App Club",
+    "sheet": "Mobile App Club",
+    "department": "Electronics Engineering (VLSI)",
+    "year": 4,
+    "seats": 1
+  },
+  {
+    "club": "Mobile App Club",
+    "sheet": "Mobile App Club",
+    "department": "Information Technology",
+    "year": 1,
+    "seats": 8
+  },
+  {
+    "club": "Mobile App Club",
+    "sheet": "Mobile App Club",
+    "department": "Information Technology",
+    "year": 2,
+    "seats": 8
+  },
+  {
+    "club": "Mobile App Club",
+    "sheet": "Mobile App Club",
+    "department": "Information Technology",
+    "year": 3,
+    "seats": 6
+  },
+  {
+    "club": "Mobile App Club",
+    "sheet": "Mobile App Club",
+    "department": "Information Technology",
+    "year": 4,
+    "seats": 4
+  },
+  {
+    "club": "Mobile App Club",
+    "sheet": "Mobile App Club",
+    "department": "Mechanical Engineering",
+    "year": 1,
+    "seats": 1
+  },
+  {
+    "club": "Mobile App Club",
+    "sheet": "Mobile App Club",
+    "department": "Mechanical Engineering",
+    "year": 2,
+    "seats": 1
+  },
+  {
+    "club": "Mobile App Club",
+    "sheet": "Mobile App Club",
+    "department": "Mechanical Engineering",
+    "year": 3,
+    "seats": 1
+  },
+  {
+    "club": "Mobile App Club",
+    "sheet": "Mobile App Club",
+    "department": "Mechanical Engineering",
+    "year": 4,
+    "seats": 1
+  },
+  {
+    "club": "Unstop Igniters",
+    "sheet": "Unstop Igniters",
+    "department": "Artificial Intelligence and Data Science",
+    "year": 1,
+    "seats": 5
+  },
+  {
+    "club": "Unstop Igniters",
+    "sheet": "Unstop Igniters",
+    "department": "Artificial Intelligence and Data Science",
+    "year": 2,
+    "seats": 5
+  },
+  {
+    "club": "Unstop Igniters",
+    "sheet": "Unstop Igniters",
+    "department": "Artificial Intelligence and Data Science",
+    "year": 3,
+    "seats": 4
+  },
+  {
+    "club": "Unstop Igniters",
+    "sheet": "Unstop Igniters",
+    "department": "Artificial Intelligence and Data Science",
+    "year": 4,
+    "seats": 3
+  },
+  {
+    "club": "Unstop Igniters",
+    "sheet": "Unstop Igniters",
+    "department": "Artificial Intelligence and Machine Learning",
+    "year": 1,
+    "seats": 3
+  },
+  {
+    "club": "Unstop Igniters",
+    "sheet": "Unstop Igniters",
+    "department": "Artificial Intelligence and Machine Learning",
+    "year": 2,
+    "seats": 3
+  },
+  {
+    "club": "Unstop Igniters",
+    "sheet": "Unstop Igniters",
+    "department": "Artificial Intelligence and Machine Learning",
+    "year": 3,
+    "seats": 3
+  },
+  {
+    "club": "Unstop Igniters",
+    "sheet": "Unstop Igniters",
+    "department": "Artificial Intelligence and Machine Learning",
+    "year": 4,
+    "seats": 2
+  },
+  {
+    "club": "Unstop Igniters",
+    "sheet": "Unstop Igniters",
+    "department": "Civil Engineering",
+    "year": 1,
+    "seats": 1
+  },
+  {
+    "club": "Unstop Igniters",
+    "sheet": "Unstop Igniters",
+    "department": "Civil Engineering",
+    "year": 2,
+    "seats": 1
+  },
+  {
+    "club": "Unstop Igniters",
+    "sheet": "Unstop Igniters",
+    "department": "Civil Engineering",
+    "year": 3,
+    "seats": 2
+  },
+  {
+    "club": "Unstop Igniters",
+    "sheet": "Unstop Igniters",
+    "department": "Civil Engineering",
+    "year": 4,
+    "seats": 1
+  },
+  {
+    "club": "Unstop Igniters",
+    "sheet": "Unstop Igniters",
+    "department": "Computer Science and Business Systems",
+    "year": 1,
+    "seats": 3
+  },
+  {
+    "club": "Unstop Igniters",
+    "sheet": "Unstop Igniters",
+    "department": "Computer Science and Business Systems",
+    "year": 2,
+    "seats": 3
+  },
+  {
+    "club": "Unstop Igniters",
+    "sheet": "Unstop Igniters",
+    "department": "Computer Science and Business Systems",
+    "year": 3,
+    "seats": 3
+  },
+  {
+    "club": "Unstop Igniters",
+    "sheet": "Unstop Igniters",
+    "department": "Computer Science and Business Systems",
+    "year": 4,
+    "seats": 2
+  },
+  {
+    "club": "Unstop Igniters",
+    "sheet": "Unstop Igniters",
+    "department": "Computer Science and Engineering",
+    "year": 1,
+    "seats": 11
+  },
+  {
+    "club": "Unstop Igniters",
+    "sheet": "Unstop Igniters",
+    "department": "Computer Science and Engineering",
+    "year": 2,
+    "seats": 11
+  },
+  {
+    "club": "Unstop Igniters",
+    "sheet": "Unstop Igniters",
+    "department": "Computer Science and Engineering",
+    "year": 3,
+    "seats": 9
+  },
+  {
+    "club": "Unstop Igniters",
+    "sheet": "Unstop Igniters",
+    "department": "Computer Science and Engineering",
+    "year": 4,
+    "seats": 5
+  },
+  {
+    "club": "Unstop Igniters",
+    "sheet": "Unstop Igniters",
+    "department": "Electrical and Electronics Engineering",
+    "year": 1,
+    "seats": 3
+  },
+  {
+    "club": "Unstop Igniters",
+    "sheet": "Unstop Igniters",
+    "department": "Electrical and Electronics Engineering",
+    "year": 2,
+    "seats": 3
+  },
+  {
+    "club": "Unstop Igniters",
+    "sheet": "Unstop Igniters",
+    "department": "Electrical and Electronics Engineering",
+    "year": 3,
+    "seats": 3
+  },
+  {
+    "club": "Unstop Igniters",
+    "sheet": "Unstop Igniters",
+    "department": "Electrical and Electronics Engineering",
+    "year": 4,
+    "seats": 2
+  },
+  {
+    "club": "Unstop Igniters",
+    "sheet": "Unstop Igniters",
+    "department": "Electronics and Communication Engineering",
+    "year": 1,
+    "seats": 8
+  },
+  {
+    "club": "Unstop Igniters",
+    "sheet": "Unstop Igniters",
+    "department": "Electronics and Communication Engineering",
+    "year": 2,
+    "seats": 8
+  },
+  {
+    "club": "Unstop Igniters",
+    "sheet": "Unstop Igniters",
+    "department": "Electronics and Communication Engineering",
+    "year": 3,
+    "seats": 7
+  },
+  {
+    "club": "Unstop Igniters",
+    "sheet": "Unstop Igniters",
+    "department": "Electronics and Communication Engineering",
+    "year": 4,
+    "seats": 4
+  },
+  {
+    "club": "Unstop Igniters",
+    "sheet": "Unstop Igniters",
+    "department": "Electronics Engineering (VLSI)",
+    "year": 1,
+    "seats": 2
+  },
+  {
+    "club": "Unstop Igniters",
+    "sheet": "Unstop Igniters",
+    "department": "Electronics Engineering (VLSI)",
+    "year": 2,
+    "seats": 2
+  },
+  {
+    "club": "Unstop Igniters",
+    "sheet": "Unstop Igniters",
+    "department": "Electronics Engineering (VLSI)",
+    "year": 3,
+    "seats": 2
+  },
+  {
+    "club": "Unstop Igniters",
+    "sheet": "Unstop Igniters",
+    "department": "Electronics Engineering (VLSI)",
+    "year": 4,
+    "seats": 1
+  },
+  {
+    "club": "Unstop Igniters",
+    "sheet": "Unstop Igniters",
+    "department": "Information Technology",
+    "year": 1,
+    "seats": 6
+  },
+  {
+    "club": "Unstop Igniters",
+    "sheet": "Unstop Igniters",
+    "department": "Information Technology",
+    "year": 2,
+    "seats": 6
+  },
+  {
+    "club": "Unstop Igniters",
+    "sheet": "Unstop Igniters",
+    "department": "Information Technology",
+    "year": 3,
+    "seats": 5
+  },
+  {
+    "club": "Unstop Igniters",
+    "sheet": "Unstop Igniters",
+    "department": "Information Technology",
+    "year": 4,
+    "seats": 3
+  },
+  {
+    "club": "Unstop Igniters",
+    "sheet": "Unstop Igniters",
+    "department": "Mechanical Engineering",
+    "year": 1,
+    "seats": 1
+  },
+  {
+    "club": "Unstop Igniters",
+    "sheet": "Unstop Igniters",
+    "department": "Mechanical Engineering",
+    "year": 2,
+    "seats": 1
+  },
+  {
+    "club": "Unstop Igniters",
+    "sheet": "Unstop Igniters",
+    "department": "Mechanical Engineering",
+    "year": 3,
+    "seats": 2
+  },
+  {
+    "club": "Unstop Igniters",
+    "sheet": "Unstop Igniters",
+    "department": "Mechanical Engineering",
+    "year": 4,
+    "seats": 1
+  },
+  {
+    "club": "IEEE Chapter",
+    "sheet": "IEEE Chapter",
+    "department": "Artificial Intelligence and Data Science",
+    "year": 1,
+    "seats": 3
+  },
+  {
+    "club": "IEEE Chapter",
+    "sheet": "IEEE Chapter",
+    "department": "Artificial Intelligence and Data Science",
+    "year": 2,
+    "seats": 3
+  },
+  {
+    "club": "IEEE Chapter",
+    "sheet": "IEEE Chapter",
+    "department": "Artificial Intelligence and Data Science",
+    "year": 3,
+    "seats": 3
+  },
+  {
+    "club": "IEEE Chapter",
+    "sheet": "IEEE Chapter",
+    "department": "Artificial Intelligence and Data Science",
+    "year": 4,
+    "seats": 2
+  },
+  {
+    "club": "IEEE Chapter",
+    "sheet": "IEEE Chapter",
+    "department": "Artificial Intelligence and Machine Learning",
+    "year": 1,
+    "seats": 2
+  },
+  {
+    "club": "IEEE Chapter",
+    "sheet": "IEEE Chapter",
+    "department": "Artificial Intelligence and Machine Learning",
+    "year": 2,
+    "seats": 2
+  },
+  {
+    "club": "IEEE Chapter",
+    "sheet": "IEEE Chapter",
+    "department": "Artificial Intelligence and Machine Learning",
+    "year": 3,
+    "seats": 2
+  },
+  {
+    "club": "IEEE Chapter",
+    "sheet": "IEEE Chapter",
+    "department": "Artificial Intelligence and Machine Learning",
+    "year": 4,
+    "seats": 1
+  },
+  {
+    "club": "IEEE Chapter",
+    "sheet": "IEEE Chapter",
+    "department": "Civil Engineering",
+    "year": 1,
+    "seats": 1
+  },
+  {
+    "club": "IEEE Chapter",
+    "sheet": "IEEE Chapter",
+    "department": "Civil Engineering",
+    "year": 2,
+    "seats": 1
+  },
+  {
+    "club": "IEEE Chapter",
+    "sheet": "IEEE Chapter",
+    "department": "Civil Engineering",
+    "year": 3,
+    "seats": 1
+  },
+  {
+    "club": "IEEE Chapter",
+    "sheet": "IEEE Chapter",
+    "department": "Civil Engineering",
+    "year": 4,
+    "seats": 1
+  },
+  {
+    "club": "IEEE Chapter",
+    "sheet": "IEEE Chapter",
+    "department": "Computer Science and Business Systems",
+    "year": 1,
+    "seats": 2
+  },
+  {
+    "club": "IEEE Chapter",
+    "sheet": "IEEE Chapter",
+    "department": "Computer Science and Business Systems",
+    "year": 2,
+    "seats": 2
+  },
+  {
+    "club": "IEEE Chapter",
+    "sheet": "IEEE Chapter",
+    "department": "Computer Science and Business Systems",
+    "year": 3,
+    "seats": 2
+  },
+  {
+    "club": "IEEE Chapter",
+    "sheet": "IEEE Chapter",
+    "department": "Computer Science and Business Systems",
+    "year": 4,
+    "seats": 1
+  },
+  {
+    "club": "IEEE Chapter",
+    "sheet": "IEEE Chapter",
+    "department": "Computer Science and Engineering",
+    "year": 1,
+    "seats": 8
+  },
+  {
+    "club": "IEEE Chapter",
+    "sheet": "IEEE Chapter",
+    "department": "Computer Science and Engineering",
+    "year": 2,
+    "seats": 8
+  },
+  {
+    "club": "IEEE Chapter",
+    "sheet": "IEEE Chapter",
+    "department": "Computer Science and Engineering",
+    "year": 3,
+    "seats": 6
+  },
+  {
+    "club": "IEEE Chapter",
+    "sheet": "IEEE Chapter",
+    "department": "Computer Science and Engineering",
+    "year": 4,
+    "seats": 4
+  },
+  {
+    "club": "IEEE Chapter",
+    "sheet": "IEEE Chapter",
+    "department": "Electrical and Electronics Engineering",
+    "year": 1,
+    "seats": 6
+  },
+  {
+    "club": "IEEE Chapter",
+    "sheet": "IEEE Chapter",
+    "department": "Electrical and Electronics Engineering",
+    "year": 2,
+    "seats": 7
+  },
+  {
+    "club": "IEEE Chapter",
+    "sheet": "IEEE Chapter",
+    "department": "Electrical and Electronics Engineering",
+    "year": 3,
+    "seats": 5
+  },
+  {
+    "club": "IEEE Chapter",
+    "sheet": "IEEE Chapter",
+    "department": "Electrical and Electronics Engineering",
+    "year": 4,
+    "seats": 3
+  },
+  {
+    "club": "IEEE Chapter",
+    "sheet": "IEEE Chapter",
+    "department": "Electronics and Communication Engineering",
+    "year": 1,
+    "seats": 15
+  },
+  {
+    "club": "IEEE Chapter",
+    "sheet": "IEEE Chapter",
+    "department": "Electronics and Communication Engineering",
+    "year": 2,
+    "seats": 15
+  },
+  {
+    "club": "IEEE Chapter",
+    "sheet": "IEEE Chapter",
+    "department": "Electronics and Communication Engineering",
+    "year": 3,
+    "seats": 12
+  },
+  {
+    "club": "IEEE Chapter",
+    "sheet": "IEEE Chapter",
+    "department": "Electronics and Communication Engineering",
+    "year": 4,
+    "seats": 6
+  },
+  {
+    "club": "IEEE Chapter",
+    "sheet": "IEEE Chapter",
+    "department": "Electronics Engineering (VLSI)",
+    "year": 1,
+    "seats": 3
+  },
+  {
+    "club": "IEEE Chapter",
+    "sheet": "IEEE Chapter",
+    "department": "Electronics Engineering (VLSI)",
+    "year": 2,
+    "seats": 3
+  },
+  {
+    "club": "IEEE Chapter",
+    "sheet": "IEEE Chapter",
+    "department": "Electronics Engineering (VLSI)",
+    "year": 3,
+    "seats": 3
+  },
+  {
+    "club": "IEEE Chapter",
+    "sheet": "IEEE Chapter",
+    "department": "Electronics Engineering (VLSI)",
+    "year": 4,
+    "seats": 2
+  },
+  {
+    "club": "IEEE Chapter",
+    "sheet": "IEEE Chapter",
+    "department": "Information Technology",
+    "year": 1,
+    "seats": 3
+  },
+  {
+    "club": "IEEE Chapter",
+    "sheet": "IEEE Chapter",
+    "department": "Information Technology",
+    "year": 2,
+    "seats": 3
+  },
+  {
+    "club": "IEEE Chapter",
+    "sheet": "IEEE Chapter",
+    "department": "Information Technology",
+    "year": 3,
+    "seats": 3
+  },
+  {
+    "club": "IEEE Chapter",
+    "sheet": "IEEE Chapter",
+    "department": "Information Technology",
+    "year": 4,
+    "seats": 2
+  },
+  {
+    "club": "IEEE Chapter",
+    "sheet": "IEEE Chapter",
+    "department": "Mechanical Engineering",
+    "year": 1,
+    "seats": 1
+  },
+  {
+    "club": "IEEE Chapter",
+    "sheet": "IEEE Chapter",
+    "department": "Mechanical Engineering",
+    "year": 2,
+    "seats": 1
+  },
+  {
+    "club": "IEEE Chapter",
+    "sheet": "IEEE Chapter",
+    "department": "Mechanical Engineering",
+    "year": 3,
+    "seats": 1
+  },
+  {
+    "club": "IEEE Chapter",
+    "sheet": "IEEE Chapter",
+    "department": "Mechanical Engineering",
+    "year": 4,
+    "seats": 1
+  },
+  {
+    "club": "EWB Club",
+    "sheet": "EWB Club",
+    "department": "Artificial Intelligence and Data Science",
+    "year": 1,
+    "seats": 3
+  },
+  {
+    "club": "EWB Club",
+    "sheet": "EWB Club",
+    "department": "Artificial Intelligence and Data Science",
+    "year": 2,
+    "seats": 3
+  },
+  {
+    "club": "EWB Club",
+    "sheet": "EWB Club",
+    "department": "Artificial Intelligence and Data Science",
+    "year": 3,
+    "seats": 2
+  },
+  {
+    "club": "EWB Club",
+    "sheet": "EWB Club",
+    "department": "Artificial Intelligence and Data Science",
+    "year": 4,
+    "seats": 2
+  },
+  {
+    "club": "EWB Club",
+    "sheet": "EWB Club",
+    "department": "Artificial Intelligence and Machine Learning",
+    "year": 1,
+    "seats": 2
+  },
+  {
+    "club": "EWB Club",
+    "sheet": "EWB Club",
+    "department": "Artificial Intelligence and Machine Learning",
+    "year": 2,
+    "seats": 2
+  },
+  {
+    "club": "EWB Club",
+    "sheet": "EWB Club",
+    "department": "Artificial Intelligence and Machine Learning",
+    "year": 3,
+    "seats": 2
+  },
+  {
+    "club": "EWB Club",
+    "sheet": "EWB Club",
+    "department": "Artificial Intelligence and Machine Learning",
+    "year": 4,
+    "seats": 1
+  },
+  {
+    "club": "EWB Club",
+    "sheet": "EWB Club",
+    "department": "Civil Engineering",
+    "year": 1,
+    "seats": 3
+  },
+  {
+    "club": "EWB Club",
+    "sheet": "EWB Club",
+    "department": "Civil Engineering",
+    "year": 2,
+    "seats": 3
+  },
+  {
+    "club": "EWB Club",
+    "sheet": "EWB Club",
+    "department": "Civil Engineering",
+    "year": 3,
+    "seats": 5
+  },
+  {
+    "club": "EWB Club",
+    "sheet": "EWB Club",
+    "department": "Civil Engineering",
+    "year": 4,
+    "seats": 3
+  },
+  {
+    "club": "EWB Club",
+    "sheet": "EWB Club",
+    "department": "Computer Science and Business Systems",
+    "year": 1,
+    "seats": 2
+  },
+  {
+    "club": "EWB Club",
+    "sheet": "EWB Club",
+    "department": "Computer Science and Business Systems",
+    "year": 2,
+    "seats": 2
+  },
+  {
+    "club": "EWB Club",
+    "sheet": "EWB Club",
+    "department": "Computer Science and Business Systems",
+    "year": 3,
+    "seats": 2
+  },
+  {
+    "club": "EWB Club",
+    "sheet": "EWB Club",
+    "department": "Computer Science and Business Systems",
+    "year": 4,
+    "seats": 1
+  },
+  {
+    "club": "EWB Club",
+    "sheet": "EWB Club",
+    "department": "Computer Science and Engineering",
+    "year": 1,
+    "seats": 7
+  },
+  {
+    "club": "EWB Club",
+    "sheet": "EWB Club",
+    "department": "Computer Science and Engineering",
+    "year": 2,
+    "seats": 7
+  },
+  {
+    "club": "EWB Club",
+    "sheet": "EWB Club",
+    "department": "Computer Science and Engineering",
+    "year": 3,
+    "seats": 6
+  },
+  {
+    "club": "EWB Club",
+    "sheet": "EWB Club",
+    "department": "Computer Science and Engineering",
+    "year": 4,
+    "seats": 3
+  },
+  {
+    "club": "EWB Club",
+    "sheet": "EWB Club",
+    "department": "Electrical and Electronics Engineering",
+    "year": 1,
+    "seats": 7
+  },
+  {
+    "club": "EWB Club",
+    "sheet": "EWB Club",
+    "department": "Electrical and Electronics Engineering",
+    "year": 2,
+    "seats": 7
+  },
+  {
+    "club": "EWB Club",
+    "sheet": "EWB Club",
+    "department": "Electrical and Electronics Engineering",
+    "year": 3,
+    "seats": 6
+  },
+  {
+    "club": "EWB Club",
+    "sheet": "EWB Club",
+    "department": "Electrical and Electronics Engineering",
+    "year": 4,
+    "seats": 3
+  },
+  {
+    "club": "EWB Club",
+    "sheet": "EWB Club",
+    "department": "Electronics and Communication Engineering",
+    "year": 1,
+    "seats": 10
+  },
+  {
+    "club": "EWB Club",
+    "sheet": "EWB Club",
+    "department": "Electronics and Communication Engineering",
+    "year": 2,
+    "seats": 11
+  },
+  {
+    "club": "EWB Club",
+    "sheet": "EWB Club",
+    "department": "Electronics and Communication Engineering",
+    "year": 3,
+    "seats": 9
+  },
+  {
+    "club": "EWB Club",
+    "sheet": "EWB Club",
+    "department": "Electronics and Communication Engineering",
+    "year": 4,
+    "seats": 5
+  },
+  {
+    "club": "EWB Club",
+    "sheet": "EWB Club",
+    "department": "Electronics Engineering (VLSI)",
+    "year": 1,
+    "seats": 2
+  },
+  {
+    "club": "EWB Club",
+    "sheet": "EWB Club",
+    "department": "Electronics Engineering (VLSI)",
+    "year": 2,
+    "seats": 2
+  },
+  {
+    "club": "EWB Club",
+    "sheet": "EWB Club",
+    "department": "Electronics Engineering (VLSI)",
+    "year": 3,
+    "seats": 2
+  },
+  {
+    "club": "EWB Club",
+    "sheet": "EWB Club",
+    "department": "Electronics Engineering (VLSI)",
+    "year": 4,
+    "seats": 1
+  },
+  {
+    "club": "EWB Club",
+    "sheet": "EWB Club",
+    "department": "Information Technology",
+    "year": 1,
+    "seats": 3
+  },
+  {
+    "club": "EWB Club",
+    "sheet": "EWB Club",
+    "department": "Information Technology",
+    "year": 2,
+    "seats": 3
+  },
+  {
+    "club": "EWB Club",
+    "sheet": "EWB Club",
+    "department": "Information Technology",
+    "year": 3,
+    "seats": 2
+  },
+  {
+    "club": "EWB Club",
+    "sheet": "EWB Club",
+    "department": "Information Technology",
+    "year": 4,
+    "seats": 2
+  },
+  {
+    "club": "EWB Club",
+    "sheet": "EWB Club",
+    "department": "Mechanical Engineering",
+    "year": 1,
+    "seats": 3
+  },
+  {
+    "club": "EWB Club",
+    "sheet": "EWB Club",
+    "department": "Mechanical Engineering",
+    "year": 2,
+    "seats": 3
+  },
+  {
+    "club": "EWB Club",
+    "sheet": "EWB Club",
+    "department": "Mechanical Engineering",
+    "year": 3,
+    "seats": 5
+  },
+  {
+    "club": "EWB Club",
+    "sheet": "EWB Club",
+    "department": "Mechanical Engineering",
+    "year": 4,
+    "seats": 3
+  },
+  {
+    "club": "Sustainable Engineers",
+    "sheet": "Sustainable Engineers",
+    "department": "Artificial Intelligence and Data Science",
+    "year": 1,
+    "seats": 3
+  },
+  {
+    "club": "Sustainable Engineers",
+    "sheet": "Sustainable Engineers",
+    "department": "Artificial Intelligence and Data Science",
+    "year": 2,
+    "seats": 3
+  },
+  {
+    "club": "Sustainable Engineers",
+    "sheet": "Sustainable Engineers",
+    "department": "Artificial Intelligence and Data Science",
+    "year": 3,
+    "seats": 3
+  },
+  {
+    "club": "Sustainable Engineers",
+    "sheet": "Sustainable Engineers",
+    "department": "Artificial Intelligence and Data Science",
+    "year": 4,
+    "seats": 2
+  },
+  {
+    "club": "Sustainable Engineers",
+    "sheet": "Sustainable Engineers",
+    "department": "Artificial Intelligence and Machine Learning",
+    "year": 1,
+    "seats": 2
+  },
+  {
+    "club": "Sustainable Engineers",
+    "sheet": "Sustainable Engineers",
+    "department": "Artificial Intelligence and Machine Learning",
+    "year": 2,
+    "seats": 2
+  },
+  {
+    "club": "Sustainable Engineers",
+    "sheet": "Sustainable Engineers",
+    "department": "Artificial Intelligence and Machine Learning",
+    "year": 3,
+    "seats": 2
+  },
+  {
+    "club": "Sustainable Engineers",
+    "sheet": "Sustainable Engineers",
+    "department": "Artificial Intelligence and Machine Learning",
+    "year": 4,
+    "seats": 1
+  },
+  {
+    "club": "Sustainable Engineers",
+    "sheet": "Sustainable Engineers",
+    "department": "Civil Engineering",
+    "year": 1,
+    "seats": 3
+  },
+  {
+    "club": "Sustainable Engineers",
+    "sheet": "Sustainable Engineers",
+    "department": "Civil Engineering",
+    "year": 2,
+    "seats": 4
+  },
+  {
+    "club": "Sustainable Engineers",
+    "sheet": "Sustainable Engineers",
+    "department": "Civil Engineering",
+    "year": 3,
+    "seats": 5
+  },
+  {
+    "club": "Sustainable Engineers",
+    "sheet": "Sustainable Engineers",
+    "department": "Civil Engineering",
+    "year": 4,
+    "seats": 3
+  },
+  {
+    "club": "Sustainable Engineers",
+    "sheet": "Sustainable Engineers",
+    "department": "Computer Science and Business Systems",
+    "year": 1,
+    "seats": 2
+  },
+  {
+    "club": "Sustainable Engineers",
+    "sheet": "Sustainable Engineers",
+    "department": "Computer Science and Business Systems",
+    "year": 2,
+    "seats": 2
+  },
+  {
+    "club": "Sustainable Engineers",
+    "sheet": "Sustainable Engineers",
+    "department": "Computer Science and Business Systems",
+    "year": 3,
+    "seats": 2
+  },
+  {
+    "club": "Sustainable Engineers",
+    "sheet": "Sustainable Engineers",
+    "department": "Computer Science and Business Systems",
+    "year": 4,
+    "seats": 1
+  },
+  {
+    "club": "Sustainable Engineers",
+    "sheet": "Sustainable Engineers",
+    "department": "Computer Science and Engineering",
+    "year": 1,
+    "seats": 5
+  },
+  {
+    "club": "Sustainable Engineers",
+    "sheet": "Sustainable Engineers",
+    "department": "Computer Science and Engineering",
+    "year": 2,
+    "seats": 5
+  },
+  {
+    "club": "Sustainable Engineers",
+    "sheet": "Sustainable Engineers",
+    "department": "Computer Science and Engineering",
+    "year": 3,
+    "seats": 4
+  },
+  {
+    "club": "Sustainable Engineers",
+    "sheet": "Sustainable Engineers",
+    "department": "Computer Science and Engineering",
+    "year": 4,
+    "seats": 3
+  },
+  {
+    "club": "Sustainable Engineers",
+    "sheet": "Sustainable Engineers",
+    "department": "Electrical and Electronics Engineering",
+    "year": 1,
+    "seats": 9
+  },
+  {
+    "club": "Sustainable Engineers",
+    "sheet": "Sustainable Engineers",
+    "department": "Electrical and Electronics Engineering",
+    "year": 2,
+    "seats": 9
+  },
+  {
+    "club": "Sustainable Engineers",
+    "sheet": "Sustainable Engineers",
+    "department": "Electrical and Electronics Engineering",
+    "year": 3,
+    "seats": 8
+  },
+  {
+    "club": "Sustainable Engineers",
+    "sheet": "Sustainable Engineers",
+    "department": "Electrical and Electronics Engineering",
+    "year": 4,
+    "seats": 4
+  },
+  {
+    "club": "Sustainable Engineers",
+    "sheet": "Sustainable Engineers",
+    "department": "Electronics and Communication Engineering",
+    "year": 1,
+    "seats": 9
+  },
+  {
+    "club": "Sustainable Engineers",
+    "sheet": "Sustainable Engineers",
+    "department": "Electronics and Communication Engineering",
+    "year": 2,
+    "seats": 9
+  },
+  {
+    "club": "Sustainable Engineers",
+    "sheet": "Sustainable Engineers",
+    "department": "Electronics and Communication Engineering",
+    "year": 3,
+    "seats": 7
+  },
+  {
+    "club": "Sustainable Engineers",
+    "sheet": "Sustainable Engineers",
+    "department": "Electronics and Communication Engineering",
+    "year": 4,
+    "seats": 4
+  },
+  {
+    "club": "Sustainable Engineers",
+    "sheet": "Sustainable Engineers",
+    "department": "Electronics Engineering (VLSI)",
+    "year": 1,
+    "seats": 2
+  },
+  {
+    "club": "Sustainable Engineers",
+    "sheet": "Sustainable Engineers",
+    "department": "Electronics Engineering (VLSI)",
+    "year": 2,
+    "seats": 2
+  },
+  {
+    "club": "Sustainable Engineers",
+    "sheet": "Sustainable Engineers",
+    "department": "Electronics Engineering (VLSI)",
+    "year": 3,
+    "seats": 2
+  },
+  {
+    "club": "Sustainable Engineers",
+    "sheet": "Sustainable Engineers",
+    "department": "Electronics Engineering (VLSI)",
+    "year": 4,
+    "seats": 1
+  },
+  {
+    "club": "Sustainable Engineers",
+    "sheet": "Sustainable Engineers",
+    "department": "Information Technology",
+    "year": 1,
+    "seats": 3
+  },
+  {
+    "club": "Sustainable Engineers",
+    "sheet": "Sustainable Engineers",
+    "department": "Information Technology",
+    "year": 2,
+    "seats": 3
+  },
+  {
+    "club": "Sustainable Engineers",
+    "sheet": "Sustainable Engineers",
+    "department": "Information Technology",
+    "year": 3,
+    "seats": 3
+  },
+  {
+    "club": "Sustainable Engineers",
+    "sheet": "Sustainable Engineers",
+    "department": "Information Technology",
+    "year": 4,
+    "seats": 2
+  },
+  {
+    "club": "Sustainable Engineers",
+    "sheet": "Sustainable Engineers",
+    "department": "Mechanical Engineering",
+    "year": 1,
+    "seats": 4
+  },
+  {
+    "club": "Sustainable Engineers",
+    "sheet": "Sustainable Engineers",
+    "department": "Mechanical Engineering",
+    "year": 2,
+    "seats": 4
+  },
+  {
+    "club": "Sustainable Engineers",
+    "sheet": "Sustainable Engineers",
+    "department": "Mechanical Engineering",
+    "year": 3,
+    "seats": 5
+  },
+  {
+    "club": "Sustainable Engineers",
+    "sheet": "Sustainable Engineers",
+    "department": "Mechanical Engineering",
+    "year": 4,
+    "seats": 3
+  },
+  {
+    "club": "Innovators Forum",
+    "sheet": "Innovators Forum",
+    "department": "Artificial Intelligence and Data Science",
+    "year": 1,
+    "seats": 4
+  },
+  {
+    "club": "Innovators Forum",
+    "sheet": "Innovators Forum",
+    "department": "Artificial Intelligence and Data Science",
+    "year": 2,
+    "seats": 4
+  },
+  {
+    "club": "Innovators Forum",
+    "sheet": "Innovators Forum",
+    "department": "Artificial Intelligence and Data Science",
+    "year": 3,
+    "seats": 4
+  },
+  {
+    "club": "Innovators Forum",
+    "sheet": "Innovators Forum",
+    "department": "Artificial Intelligence and Data Science",
+    "year": 4,
+    "seats": 2
+  },
+  {
+    "club": "Innovators Forum",
+    "sheet": "Innovators Forum",
+    "department": "Artificial Intelligence and Machine Learning",
+    "year": 1,
+    "seats": 3
+  },
+  {
+    "club": "Innovators Forum",
+    "sheet": "Innovators Forum",
+    "department": "Artificial Intelligence and Machine Learning",
+    "year": 2,
+    "seats": 3
+  },
+  {
+    "club": "Innovators Forum",
+    "sheet": "Innovators Forum",
+    "department": "Artificial Intelligence and Machine Learning",
+    "year": 3,
+    "seats": 2
+  },
+  {
+    "club": "Innovators Forum",
+    "sheet": "Innovators Forum",
+    "department": "Artificial Intelligence and Machine Learning",
+    "year": 4,
+    "seats": 2
+  },
+  {
+    "club": "Innovators Forum",
+    "sheet": "Innovators Forum",
+    "department": "Civil Engineering",
+    "year": 1,
+    "seats": 2
+  },
+  {
+    "club": "Innovators Forum",
+    "sheet": "Innovators Forum",
+    "department": "Civil Engineering",
+    "year": 2,
+    "seats": 2
+  },
+  {
+    "club": "Innovators Forum",
+    "sheet": "Innovators Forum",
+    "department": "Civil Engineering",
+    "year": 3,
+    "seats": 2
+  },
+  {
+    "club": "Innovators Forum",
+    "sheet": "Innovators Forum",
+    "department": "Civil Engineering",
+    "year": 4,
+    "seats": 2
+  },
+  {
+    "club": "Innovators Forum",
+    "sheet": "Innovators Forum",
+    "department": "Computer Science and Business Systems",
+    "year": 1,
+    "seats": 3
+  },
+  {
+    "club": "Innovators Forum",
+    "sheet": "Innovators Forum",
+    "department": "Computer Science and Business Systems",
+    "year": 2,
+    "seats": 3
+  },
+  {
+    "club": "Innovators Forum",
+    "sheet": "Innovators Forum",
+    "department": "Computer Science and Business Systems",
+    "year": 3,
+    "seats": 2
+  },
+  {
+    "club": "Innovators Forum",
+    "sheet": "Innovators Forum",
+    "department": "Computer Science and Business Systems",
+    "year": 4,
+    "seats": 2
+  },
+  {
+    "club": "Innovators Forum",
+    "sheet": "Innovators Forum",
+    "department": "Computer Science and Engineering",
+    "year": 1,
+    "seats": 9
+  },
+  {
+    "club": "Innovators Forum",
+    "sheet": "Innovators Forum",
+    "department": "Computer Science and Engineering",
+    "year": 2,
+    "seats": 9
+  },
+  {
+    "club": "Innovators Forum",
+    "sheet": "Innovators Forum",
+    "department": "Computer Science and Engineering",
+    "year": 3,
+    "seats": 7
+  },
+  {
+    "club": "Innovators Forum",
+    "sheet": "Innovators Forum",
+    "department": "Computer Science and Engineering",
+    "year": 4,
+    "seats": 4
+  },
+  {
+    "club": "Innovators Forum",
+    "sheet": "Innovators Forum",
+    "department": "Electrical and Electronics Engineering",
+    "year": 1,
+    "seats": 4
+  },
+  {
+    "club": "Innovators Forum",
+    "sheet": "Innovators Forum",
+    "department": "Electrical and Electronics Engineering",
+    "year": 2,
+    "seats": 4
+  },
+  {
+    "club": "Innovators Forum",
+    "sheet": "Innovators Forum",
+    "department": "Electrical and Electronics Engineering",
+    "year": 3,
+    "seats": 3
+  },
+  {
+    "club": "Innovators Forum",
+    "sheet": "Innovators Forum",
+    "department": "Electrical and Electronics Engineering",
+    "year": 4,
+    "seats": 2
+  },
+  {
+    "club": "Innovators Forum",
+    "sheet": "Innovators Forum",
+    "department": "Electronics and Communication Engineering",
+    "year": 1,
+    "seats": 10
+  },
+  {
+    "club": "Innovators Forum",
+    "sheet": "Innovators Forum",
+    "department": "Electronics and Communication Engineering",
+    "year": 2,
+    "seats": 10
+  },
+  {
+    "club": "Innovators Forum",
+    "sheet": "Innovators Forum",
+    "department": "Electronics and Communication Engineering",
+    "year": 3,
+    "seats": 9
+  },
+  {
+    "club": "Innovators Forum",
+    "sheet": "Innovators Forum",
+    "department": "Electronics and Communication Engineering",
+    "year": 4,
+    "seats": 5
+  },
+  {
+    "club": "Innovators Forum",
+    "sheet": "Innovators Forum",
+    "department": "Electronics Engineering (VLSI)",
+    "year": 1,
+    "seats": 3
+  },
+  {
+    "club": "Innovators Forum",
+    "sheet": "Innovators Forum",
+    "department": "Electronics Engineering (VLSI)",
+    "year": 2,
+    "seats": 3
+  },
+  {
+    "club": "Innovators Forum",
+    "sheet": "Innovators Forum",
+    "department": "Electronics Engineering (VLSI)",
+    "year": 3,
+    "seats": 2
+  },
+  {
+    "club": "Innovators Forum",
+    "sheet": "Innovators Forum",
+    "department": "Electronics Engineering (VLSI)",
+    "year": 4,
+    "seats": 2
+  },
+  {
+    "club": "Innovators Forum",
+    "sheet": "Innovators Forum",
+    "department": "Information Technology",
+    "year": 1,
+    "seats": 4
+  },
+  {
+    "club": "Innovators Forum",
+    "sheet": "Innovators Forum",
+    "department": "Information Technology",
+    "year": 2,
+    "seats": 4
+  },
+  {
+    "club": "Innovators Forum",
+    "sheet": "Innovators Forum",
+    "department": "Information Technology",
+    "year": 3,
+    "seats": 4
+  },
+  {
+    "club": "Innovators Forum",
+    "sheet": "Innovators Forum",
+    "department": "Information Technology",
+    "year": 4,
+    "seats": 2
+  },
+  {
+    "club": "Innovators Forum",
+    "sheet": "Innovators Forum",
+    "department": "Mechanical Engineering",
+    "year": 1,
+    "seats": 2
+  },
+  {
+    "club": "Innovators Forum",
+    "sheet": "Innovators Forum",
+    "department": "Mechanical Engineering",
+    "year": 2,
+    "seats": 2
+  },
+  {
+    "club": "Innovators Forum",
+    "sheet": "Innovators Forum",
+    "department": "Mechanical Engineering",
+    "year": 3,
+    "seats": 2
+  },
+  {
+    "club": "Innovators Forum",
+    "sheet": "Innovators Forum",
+    "department": "Mechanical Engineering",
+    "year": 4,
+    "seats": 2
+  },
+  {
+    "club": "IoT Club",
+    "sheet": "IoT Club",
+    "department": "Artificial Intelligence and Data Science",
+    "year": 1,
+    "seats": 3
+  },
+  {
+    "club": "IoT Club",
+    "sheet": "IoT Club",
+    "department": "Artificial Intelligence and Data Science",
+    "year": 2,
+    "seats": 3
+  },
+  {
+    "club": "IoT Club",
+    "sheet": "IoT Club",
+    "department": "Artificial Intelligence and Data Science",
+    "year": 3,
+    "seats": 3
+  },
+  {
+    "club": "IoT Club",
+    "sheet": "IoT Club",
+    "department": "Artificial Intelligence and Data Science",
+    "year": 4,
+    "seats": 2
+  },
+  {
+    "club": "IoT Club",
+    "sheet": "IoT Club",
+    "department": "Artificial Intelligence and Machine Learning",
+    "year": 1,
+    "seats": 3
+  },
+  {
+    "club": "IoT Club",
+    "sheet": "IoT Club",
+    "department": "Artificial Intelligence and Machine Learning",
+    "year": 2,
+    "seats": 3
+  },
+  {
+    "club": "IoT Club",
+    "sheet": "IoT Club",
+    "department": "Artificial Intelligence and Machine Learning",
+    "year": 3,
+    "seats": 2
+  },
+  {
+    "club": "IoT Club",
+    "sheet": "IoT Club",
+    "department": "Artificial Intelligence and Machine Learning",
+    "year": 4,
+    "seats": 2
+  },
+  {
+    "club": "IoT Club",
+    "sheet": "IoT Club",
+    "department": "Civil Engineering",
+    "year": 1,
+    "seats": 1
+  },
+  {
+    "club": "IoT Club",
+    "sheet": "IoT Club",
+    "department": "Civil Engineering",
+    "year": 2,
+    "seats": 1
+  },
+  {
+    "club": "IoT Club",
+    "sheet": "IoT Club",
+    "department": "Civil Engineering",
+    "year": 3,
+    "seats": 1
+  },
+  {
+    "club": "IoT Club",
+    "sheet": "IoT Club",
+    "department": "Civil Engineering",
+    "year": 4,
+    "seats": 1
+  },
+  {
+    "club": "IoT Club",
+    "sheet": "IoT Club",
+    "department": "Computer Science and Business Systems",
+    "year": 1,
+    "seats": 2
+  },
+  {
+    "club": "IoT Club",
+    "sheet": "IoT Club",
+    "department": "Computer Science and Business Systems",
+    "year": 2,
+    "seats": 2
+  },
+  {
+    "club": "IoT Club",
+    "sheet": "IoT Club",
+    "department": "Computer Science and Business Systems",
+    "year": 3,
+    "seats": 2
+  },
+  {
+    "club": "IoT Club",
+    "sheet": "IoT Club",
+    "department": "Computer Science and Business Systems",
+    "year": 4,
+    "seats": 1
+  },
+  {
+    "club": "IoT Club",
+    "sheet": "IoT Club",
+    "department": "Computer Science and Engineering",
+    "year": 1,
+    "seats": 7
+  },
+  {
+    "club": "IoT Club",
+    "sheet": "IoT Club",
+    "department": "Computer Science and Engineering",
+    "year": 2,
+    "seats": 7
+  },
+  {
+    "club": "IoT Club",
+    "sheet": "IoT Club",
+    "department": "Computer Science and Engineering",
+    "year": 3,
+    "seats": 6
+  },
+  {
+    "club": "IoT Club",
+    "sheet": "IoT Club",
+    "department": "Computer Science and Engineering",
+    "year": 4,
+    "seats": 3
+  },
+  {
+    "club": "IoT Club",
+    "sheet": "IoT Club",
+    "department": "Electrical and Electronics Engineering",
+    "year": 1,
+    "seats": 5
+  },
+  {
+    "club": "IoT Club",
+    "sheet": "IoT Club",
+    "department": "Electrical and Electronics Engineering",
+    "year": 2,
+    "seats": 5
+  },
+  {
+    "club": "IoT Club",
+    "sheet": "IoT Club",
+    "department": "Electrical and Electronics Engineering",
+    "year": 3,
+    "seats": 4
+  },
+  {
+    "club": "IoT Club",
+    "sheet": "IoT Club",
+    "department": "Electrical and Electronics Engineering",
+    "year": 4,
+    "seats": 3
+  },
+  {
+    "club": "IoT Club",
+    "sheet": "IoT Club",
+    "department": "Electronics and Communication Engineering",
+    "year": 1,
+    "seats": 14
+  },
+  {
+    "club": "IoT Club",
+    "sheet": "IoT Club",
+    "department": "Electronics and Communication Engineering",
+    "year": 2,
+    "seats": 14
+  },
+  {
+    "club": "IoT Club",
+    "sheet": "IoT Club",
+    "department": "Electronics and Communication Engineering",
+    "year": 3,
+    "seats": 11
+  },
+  {
+    "club": "IoT Club",
+    "sheet": "IoT Club",
+    "department": "Electronics and Communication Engineering",
+    "year": 4,
+    "seats": 6
+  },
+  {
+    "club": "IoT Club",
+    "sheet": "IoT Club",
+    "department": "Electronics Engineering (VLSI)",
+    "year": 1,
+    "seats": 4
+  },
+  {
+    "club": "IoT Club",
+    "sheet": "IoT Club",
+    "department": "Electronics Engineering (VLSI)",
+    "year": 2,
+    "seats": 4
+  },
+  {
+    "club": "IoT Club",
+    "sheet": "IoT Club",
+    "department": "Electronics Engineering (VLSI)",
+    "year": 3,
+    "seats": 3
+  },
+  {
+    "club": "IoT Club",
+    "sheet": "IoT Club",
+    "department": "Electronics Engineering (VLSI)",
+    "year": 4,
+    "seats": 2
+  },
+  {
+    "club": "IoT Club",
+    "sheet": "IoT Club",
+    "department": "Information Technology",
+    "year": 1,
+    "seats": 4
+  },
+  {
+    "club": "IoT Club",
+    "sheet": "IoT Club",
+    "department": "Information Technology",
+    "year": 2,
+    "seats": 4
+  },
+  {
+    "club": "IoT Club",
+    "sheet": "IoT Club",
+    "department": "Information Technology",
+    "year": 3,
+    "seats": 3
+  },
+  {
+    "club": "IoT Club",
+    "sheet": "IoT Club",
+    "department": "Information Technology",
+    "year": 4,
+    "seats": 2
+  },
+  {
+    "club": "IoT Club",
+    "sheet": "IoT Club",
+    "department": "Mechanical Engineering",
+    "year": 1,
+    "seats": 2
+  },
+  {
+    "club": "IoT Club",
+    "sheet": "IoT Club",
+    "department": "Mechanical Engineering",
+    "year": 2,
+    "seats": 2
+  },
+  {
+    "club": "IoT Club",
+    "sheet": "IoT Club",
+    "department": "Mechanical Engineering",
+    "year": 3,
+    "seats": 2
+  },
+  {
+    "club": "IoT Club",
+    "sheet": "IoT Club",
+    "department": "Mechanical Engineering",
+    "year": 4,
+    "seats": 1
+  },
+  {
+    "club": "Communication Club",
+    "sheet": "Communication Club",
+    "department": "Artificial Intelligence and Data Science",
+    "year": 1,
+    "seats": 4
+  },
+  {
+    "club": "Communication Club",
+    "sheet": "Communication Club",
+    "department": "Artificial Intelligence and Data Science",
+    "year": 2,
+    "seats": 4
+  },
+  {
+    "club": "Communication Club",
+    "sheet": "Communication Club",
+    "department": "Artificial Intelligence and Data Science",
+    "year": 3,
+    "seats": 3
+  },
+  {
+    "club": "Communication Club",
+    "sheet": "Communication Club",
+    "department": "Artificial Intelligence and Data Science",
+    "year": 4,
+    "seats": 2
+  },
+  {
+    "club": "Communication Club",
+    "sheet": "Communication Club",
+    "department": "Artificial Intelligence and Machine Learning",
+    "year": 1,
+    "seats": 3
+  },
+  {
+    "club": "Communication Club",
+    "sheet": "Communication Club",
+    "department": "Artificial Intelligence and Machine Learning",
+    "year": 2,
+    "seats": 3
+  },
+  {
+    "club": "Communication Club",
+    "sheet": "Communication Club",
+    "department": "Artificial Intelligence and Machine Learning",
+    "year": 3,
+    "seats": 2
+  },
+  {
+    "club": "Communication Club",
+    "sheet": "Communication Club",
+    "department": "Artificial Intelligence and Machine Learning",
+    "year": 4,
+    "seats": 2
+  },
+  {
+    "club": "Communication Club",
+    "sheet": "Communication Club",
+    "department": "Civil Engineering",
+    "year": 1,
+    "seats": 2
+  },
+  {
+    "club": "Communication Club",
+    "sheet": "Communication Club",
+    "department": "Civil Engineering",
+    "year": 2,
+    "seats": 2
+  },
+  {
+    "club": "Communication Club",
+    "sheet": "Communication Club",
+    "department": "Civil Engineering",
+    "year": 3,
+    "seats": 2
+  },
+  {
+    "club": "Communication Club",
+    "sheet": "Communication Club",
+    "department": "Civil Engineering",
+    "year": 4,
+    "seats": 2
+  },
+  {
+    "club": "Communication Club",
+    "sheet": "Communication Club",
+    "department": "Computer Science and Business Systems",
+    "year": 1,
+    "seats": 3
+  },
+  {
+    "club": "Communication Club",
+    "sheet": "Communication Club",
+    "department": "Computer Science and Business Systems",
+    "year": 2,
+    "seats": 3
+  },
+  {
+    "club": "Communication Club",
+    "sheet": "Communication Club",
+    "department": "Computer Science and Business Systems",
+    "year": 3,
+    "seats": 3
+  },
+  {
+    "club": "Communication Club",
+    "sheet": "Communication Club",
+    "department": "Computer Science and Business Systems",
+    "year": 4,
+    "seats": 2
+  },
+  {
+    "club": "Communication Club",
+    "sheet": "Communication Club",
+    "department": "Computer Science and Engineering",
+    "year": 1,
+    "seats": 7
+  },
+  {
+    "club": "Communication Club",
+    "sheet": "Communication Club",
+    "department": "Computer Science and Engineering",
+    "year": 2,
+    "seats": 7
+  },
+  {
+    "club": "Communication Club",
+    "sheet": "Communication Club",
+    "department": "Computer Science and Engineering",
+    "year": 3,
+    "seats": 6
+  },
+  {
+    "club": "Communication Club",
+    "sheet": "Communication Club",
+    "department": "Computer Science and Engineering",
+    "year": 4,
+    "seats": 3
+  },
+  {
+    "club": "Communication Club",
+    "sheet": "Communication Club",
+    "department": "Electrical and Electronics Engineering",
+    "year": 1,
+    "seats": 4
+  },
+  {
+    "club": "Communication Club",
+    "sheet": "Communication Club",
+    "department": "Electrical and Electronics Engineering",
+    "year": 2,
+    "seats": 4
+  },
+  {
+    "club": "Communication Club",
+    "sheet": "Communication Club",
+    "department": "Electrical and Electronics Engineering",
+    "year": 3,
+    "seats": 3
+  },
+  {
+    "club": "Communication Club",
+    "sheet": "Communication Club",
+    "department": "Electrical and Electronics Engineering",
+    "year": 4,
+    "seats": 2
+  },
+  {
+    "club": "Communication Club",
+    "sheet": "Communication Club",
+    "department": "Electronics and Communication Engineering",
+    "year": 1,
+    "seats": 13
+  },
+  {
+    "club": "Communication Club",
+    "sheet": "Communication Club",
+    "department": "Electronics and Communication Engineering",
+    "year": 2,
+    "seats": 13
+  },
+  {
+    "club": "Communication Club",
+    "sheet": "Communication Club",
+    "department": "Electronics and Communication Engineering",
+    "year": 3,
+    "seats": 11
+  },
+  {
+    "club": "Communication Club",
+    "sheet": "Communication Club",
+    "department": "Electronics and Communication Engineering",
+    "year": 4,
+    "seats": 6
+  },
+  {
+    "club": "Communication Club",
+    "sheet": "Communication Club",
+    "department": "Electronics Engineering (VLSI)",
+    "year": 1,
+    "seats": 2
+  },
+  {
+    "club": "Communication Club",
+    "sheet": "Communication Club",
+    "department": "Electronics Engineering (VLSI)",
+    "year": 2,
+    "seats": 2
+  },
+  {
+    "club": "Communication Club",
+    "sheet": "Communication Club",
+    "department": "Electronics Engineering (VLSI)",
+    "year": 3,
+    "seats": 2
+  },
+  {
+    "club": "Communication Club",
+    "sheet": "Communication Club",
+    "department": "Electronics Engineering (VLSI)",
+    "year": 4,
+    "seats": 2
+  },
+  {
+    "club": "Communication Club",
+    "sheet": "Communication Club",
+    "department": "Information Technology",
+    "year": 1,
+    "seats": 4
+  },
+  {
+    "club": "Communication Club",
+    "sheet": "Communication Club",
+    "department": "Information Technology",
+    "year": 2,
+    "seats": 4
+  },
+  {
+    "club": "Communication Club",
+    "sheet": "Communication Club",
+    "department": "Information Technology",
+    "year": 3,
+    "seats": 3
+  },
+  {
+    "club": "Communication Club",
+    "sheet": "Communication Club",
+    "department": "Information Technology",
+    "year": 4,
+    "seats": 2
+  },
+  {
+    "club": "Communication Club",
+    "sheet": "Communication Club",
+    "department": "Mechanical Engineering",
+    "year": 1,
+    "seats": 2
+  },
+  {
+    "club": "Communication Club",
+    "sheet": "Communication Club",
+    "department": "Mechanical Engineering",
+    "year": 2,
+    "seats": 2
+  },
+  {
+    "club": "Communication Club",
+    "sheet": "Communication Club",
+    "department": "Mechanical Engineering",
+    "year": 3,
+    "seats": 2
+  },
+  {
+    "club": "Communication Club",
+    "sheet": "Communication Club",
+    "department": "Mechanical Engineering",
+    "year": 4,
+    "seats": 2
+  },
+  {
+    "club": "IBM Z Explore Student Community",
+    "sheet": "IBM Z Explore",
+    "department": "Artificial Intelligence and Data Science",
+    "year": 1,
+    "seats": 5
+  },
+  {
+    "club": "IBM Z Explore Student Community",
+    "sheet": "IBM Z Explore",
+    "department": "Artificial Intelligence and Data Science",
+    "year": 2,
+    "seats": 6
+  },
+  {
+    "club": "IBM Z Explore Student Community",
+    "sheet": "IBM Z Explore",
+    "department": "Artificial Intelligence and Data Science",
+    "year": 3,
+    "seats": 5
+  },
+  {
+    "club": "IBM Z Explore Student Community",
+    "sheet": "IBM Z Explore",
+    "department": "Artificial Intelligence and Data Science",
+    "year": 4,
+    "seats": 3
+  },
+  {
+    "club": "IBM Z Explore Student Community",
+    "sheet": "IBM Z Explore",
+    "department": "Artificial Intelligence and Machine Learning",
+    "year": 1,
+    "seats": 3
+  },
+  {
+    "club": "IBM Z Explore Student Community",
+    "sheet": "IBM Z Explore",
+    "department": "Artificial Intelligence and Machine Learning",
+    "year": 2,
+    "seats": 3
+  },
+  {
+    "club": "IBM Z Explore Student Community",
+    "sheet": "IBM Z Explore",
+    "department": "Artificial Intelligence and Machine Learning",
+    "year": 3,
+    "seats": 3
+  },
+  {
+    "club": "IBM Z Explore Student Community",
+    "sheet": "IBM Z Explore",
+    "department": "Artificial Intelligence and Machine Learning",
+    "year": 4,
+    "seats": 2
+  },
+  {
+    "club": "IBM Z Explore Student Community",
+    "sheet": "IBM Z Explore",
+    "department": "Civil Engineering",
+    "year": 1,
+    "seats": 1
+  },
+  {
+    "club": "IBM Z Explore Student Community",
+    "sheet": "IBM Z Explore",
+    "department": "Civil Engineering",
+    "year": 2,
+    "seats": 1
+  },
+  {
+    "club": "IBM Z Explore Student Community",
+    "sheet": "IBM Z Explore",
+    "department": "Civil Engineering",
+    "year": 3,
+    "seats": 1
+  },
+  {
+    "club": "IBM Z Explore Student Community",
+    "sheet": "IBM Z Explore",
+    "department": "Civil Engineering",
+    "year": 4,
+    "seats": 1
+  },
+  {
+    "club": "IBM Z Explore Student Community",
+    "sheet": "IBM Z Explore",
+    "department": "Computer Science and Business Systems",
+    "year": 1,
+    "seats": 4
+  },
+  {
+    "club": "IBM Z Explore Student Community",
+    "sheet": "IBM Z Explore",
+    "department": "Computer Science and Business Systems",
+    "year": 2,
+    "seats": 4
+  },
+  {
+    "club": "IBM Z Explore Student Community",
+    "sheet": "IBM Z Explore",
+    "department": "Computer Science and Business Systems",
+    "year": 3,
+    "seats": 3
+  },
+  {
+    "club": "IBM Z Explore Student Community",
+    "sheet": "IBM Z Explore",
+    "department": "Computer Science and Business Systems",
+    "year": 4,
+    "seats": 2
+  },
+  {
+    "club": "IBM Z Explore Student Community",
+    "sheet": "IBM Z Explore",
+    "department": "Computer Science and Engineering",
+    "year": 1,
+    "seats": 12
+  },
+  {
+    "club": "IBM Z Explore Student Community",
+    "sheet": "IBM Z Explore",
+    "department": "Computer Science and Engineering",
+    "year": 2,
+    "seats": 12
+  },
+  {
+    "club": "IBM Z Explore Student Community",
+    "sheet": "IBM Z Explore",
+    "department": "Computer Science and Engineering",
+    "year": 3,
+    "seats": 10
+  },
+  {
+    "club": "IBM Z Explore Student Community",
+    "sheet": "IBM Z Explore",
+    "department": "Computer Science and Engineering",
+    "year": 4,
+    "seats": 6
+  },
+  {
+    "club": "IBM Z Explore Student Community",
+    "sheet": "IBM Z Explore",
+    "department": "Electrical and Electronics Engineering",
+    "year": 1,
+    "seats": 2
+  },
+  {
+    "club": "IBM Z Explore Student Community",
+    "sheet": "IBM Z Explore",
+    "department": "Electrical and Electronics Engineering",
+    "year": 2,
+    "seats": 2
+  },
+  {
+    "club": "IBM Z Explore Student Community",
+    "sheet": "IBM Z Explore",
+    "department": "Electrical and Electronics Engineering",
+    "year": 3,
+    "seats": 2
+  },
+  {
+    "club": "IBM Z Explore Student Community",
+    "sheet": "IBM Z Explore",
+    "department": "Electrical and Electronics Engineering",
+    "year": 4,
+    "seats": 1
+  },
+  {
+    "club": "IBM Z Explore Student Community",
+    "sheet": "IBM Z Explore",
+    "department": "Electronics and Communication Engineering",
+    "year": 1,
+    "seats": 7
+  },
+  {
+    "club": "IBM Z Explore Student Community",
+    "sheet": "IBM Z Explore",
+    "department": "Electronics and Communication Engineering",
+    "year": 2,
+    "seats": 7
+  },
+  {
+    "club": "IBM Z Explore Student Community",
+    "sheet": "IBM Z Explore",
+    "department": "Electronics and Communication Engineering",
+    "year": 3,
+    "seats": 6
+  },
+  {
+    "club": "IBM Z Explore Student Community",
+    "sheet": "IBM Z Explore",
+    "department": "Electronics and Communication Engineering",
+    "year": 4,
+    "seats": 3
+  },
+  {
+    "club": "IBM Z Explore Student Community",
+    "sheet": "IBM Z Explore",
+    "department": "Electronics Engineering (VLSI)",
+    "year": 1,
+    "seats": 2
+  },
+  {
+    "club": "IBM Z Explore Student Community",
+    "sheet": "IBM Z Explore",
+    "department": "Electronics Engineering (VLSI)",
+    "year": 2,
+    "seats": 2
+  },
+  {
+    "club": "IBM Z Explore Student Community",
+    "sheet": "IBM Z Explore",
+    "department": "Electronics Engineering (VLSI)",
+    "year": 3,
+    "seats": 1
+  },
+  {
+    "club": "IBM Z Explore Student Community",
+    "sheet": "IBM Z Explore",
+    "department": "Electronics Engineering (VLSI)",
+    "year": 4,
+    "seats": 1
+  },
+  {
+    "club": "IBM Z Explore Student Community",
+    "sheet": "IBM Z Explore",
+    "department": "Information Technology",
+    "year": 1,
+    "seats": 7
+  },
+  {
+    "club": "IBM Z Explore Student Community",
+    "sheet": "IBM Z Explore",
+    "department": "Information Technology",
+    "year": 2,
+    "seats": 7
+  },
+  {
+    "club": "IBM Z Explore Student Community",
+    "sheet": "IBM Z Explore",
+    "department": "Information Technology",
+    "year": 3,
+    "seats": 6
+  },
+  {
+    "club": "IBM Z Explore Student Community",
+    "sheet": "IBM Z Explore",
+    "department": "Information Technology",
+    "year": 4,
+    "seats": 3
+  },
+  {
+    "club": "IBM Z Explore Student Community",
+    "sheet": "IBM Z Explore",
+    "department": "Mechanical Engineering",
+    "year": 1,
+    "seats": 1
+  },
+  {
+    "club": "IBM Z Explore Student Community",
+    "sheet": "IBM Z Explore",
+    "department": "Mechanical Engineering",
+    "year": 2,
+    "seats": 1
+  },
+  {
+    "club": "IBM Z Explore Student Community",
+    "sheet": "IBM Z Explore",
+    "department": "Mechanical Engineering",
+    "year": 3,
+    "seats": 1
+  },
+  {
+    "club": "IBM Z Explore Student Community",
+    "sheet": "IBM Z Explore",
+    "department": "Mechanical Engineering",
+    "year": 4,
+    "seats": 1
+  }
+]
